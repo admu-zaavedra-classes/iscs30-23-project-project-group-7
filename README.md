@@ -1,6 +1,6 @@
-# Project Title
+# Containerizing: Lazapee App
 
-One Paragraph of project description goes here. Forked from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+Lazapee is an app that manages and reads information on employee payrolls. Furthermore, a summary of the payrolls payable for each cycle is one of its key features as it makes the presentation of data easily accessible and understandable to the user. There are various pages in the application that allow the user to create, read, edit, and delete both employees and payslips. 
 
 ## Getting Started
 
