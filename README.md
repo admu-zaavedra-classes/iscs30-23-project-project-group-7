@@ -47,16 +47,14 @@ Bootstrap - The front-end development framework used.
 css - Used for additional styling.
   
 ## Versioning
-```
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-```
+We used [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
 
 ## Authors
-```
 Alvero, Laryssa Corinne P.
 Fausto, Brendan
 Amador, John Michael T.
-```
+
 
 ## License
 
