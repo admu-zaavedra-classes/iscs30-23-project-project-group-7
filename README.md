@@ -55,7 +55,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Alvero, Laryssa Corinne P.
+Fausto, Brendan
+Amador, JM
 
 ## License
 
