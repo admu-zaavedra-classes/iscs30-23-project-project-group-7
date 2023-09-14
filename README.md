@@ -11,14 +11,6 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-django
-To install this: https://docs.djangoproject.com/en/1.8/howto/windows/#:~:text=Django%20can%20be%20installed%20easily,version%20in%20the%20command%20prompt.
-
-bootstrap
-To install this: https://getbootstrap.com/docs/4.0/getting-started/webpack/
-
-css
-Documentation: https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text
 ```
 
 ### Installing
@@ -48,11 +40,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-  
-* [Bootstrap] (https://getbootstrap.com/docs/5.0/getting-started/introduction/) - The front-end development framework used
+django - The back-end development framework used.
+
+Bootstrap - The front-end development framework used.
+
+css - Used for additional styling.
   
 ## Versioning
 
