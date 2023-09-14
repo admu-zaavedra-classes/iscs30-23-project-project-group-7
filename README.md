@@ -12,8 +12,13 @@ What things you need to install the software and how to install them
 
 ```
 django
+To install this: https://docs.djangoproject.com/en/1.8/howto/windows/#:~:text=Django%20can%20be%20installed%20easily,version%20in%20the%20command%20prompt.
+
 bootstrap
+To install this: https://getbootstrap.com/docs/4.0/getting-started/webpack/
+
 css
+Documentation: https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text
 ```
 
 ### Installing
