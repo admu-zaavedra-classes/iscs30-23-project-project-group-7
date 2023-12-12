@@ -49,6 +49,20 @@ css - Used for additional styling.
 ## Versioning
 We used [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
+## Dependencies
+No database, but bootstrap was used for frontend and django was used for the backend.
+
+## Pods
+The application made use of 3 pods.
+
+## Autoscaling
+The autoscaling specifications were a minimum of 3 pods and a maximum of 4 pods.
+
+## Storage Persistence
+The application did not make use of a database.
+
+## Services
+The application only made use of a loadbalancer. 
 
 ## Authors
 Alvero, Laryssa Corinne P.
