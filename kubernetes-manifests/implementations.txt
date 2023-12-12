@@ -1,0 +1,5 @@
+Services made:
+- Load Balancer
+
+Pods:
+- 3
